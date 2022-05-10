@@ -24,7 +24,7 @@ new Morris.Line({
 new Morris.Donut({
   element: 'circle',
   data: [
-      { label: 'Oliver',year: '2008', value: 20, color: "red",    labelColor: 'red' },
+      { label: 'Oliver',year: '2008', value: 20, color: "red",    labelColor: 'white' },
       { label: 'Daniel',year: '2009', value: 10, color: "yellow", labelColor: 'white' },
       { label: 'Carlos',year: '2010', value: 5, color: "#227FCC", labelColor: 'white' },
       { label: 'Vanesa',year: '2011', value: 5, color: "#C2D152", labelColor: 'white' },
